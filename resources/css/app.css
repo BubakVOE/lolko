@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active {
+    border-color: #00d9ff;
+}
+
+
+
+
+
+.region-active {
+    border-color: #ff0000;
+    opacity: 1;
+}
+
+/* 
+.pokusout{
+    box-shadow: 14px 14px 28px #282828, -14px -14px 28px #a2a2a2;
+};
+
+
+.pokusin{
+    box-shadow: inset 14px 14px 28px #282828, inset -14px -14px 28px #a2a2a2;
+}     */
